@@ -114,49 +114,49 @@
       "title": "Jimin",
       "description": "Samples last chat",
       "image": "https://cdn.wallpapersafari.com/67/92/iw5a8o.jpg",
-      "videoid": "chatboot_footbal"
+      "videoid": "https://github.com/openmediaentertainment/video/blob/main/bts/JIMIN/1.mkv?raw=true"
     },
     {
       "id": 2,
       "title": "Jin",
       "description": "Samples last chat",
       "image": "https://wallpapercave.com/wp/wp2384551.jpg",
-      "videoid": "chatboot_flower"
+      "videoid": "https://github.com/openmediaentertainment/video/blob/main/bts/JIMIN/1.mkv?raw=true"
     },
     {
       "id": 3,
       "title": "J-Hope",
       "description": "Samples last chat",
       "image": "https://wallpapercave.com/wp/wp2386022.jpg",
-      "videoid": "chatboot_footbal"
+      "videoid": "https://github.com/openmediaentertainment/video/blob/main/bts/JIMIN/1.mkv?raw=true"
     },
     {
       "id": 4,
       "title": "Jung Kook",
       "description": "Reskin Aliendroid",
       "image": "https://tse4.mm.bing.net/th?id=OIP.l2v2IOvQg5-yZ1L4XExL3gHaE8&pid=Api&P=0",
-      "videoid": "chatboot_flower3"
+      "videoid": "https://github.com/openmediaentertainment/video/blob/main/bts/JIMIN/1.mkv?raw=true"
     },
     {
       "id": 5,
       "title": "RM",
       "description": "Reskin Aliendroid",
       "image": "https://wallpapercave.com/wp/wp3061662.jpg",
-      "videoid": "chatboot_flower3"
+      "videoid": "https://github.com/openmediaentertainment/video/blob/main/bts/JIMIN/1.mkv?raw=true"
     },
     {
       "id": 6,
       "title": "SUGA",
       "description": "Reskin Aliendroid",
       "image": "https://wallpaperaccess.com/full/145609.jpg",
-      "videoid": "chatboot_flower3"
+      "videoid": "https://github.com/openmediaentertainment/video/blob/main/bts/JIMIN/1.mkv?raw=true"
     },
     {
       "id": 7,
       "title": "V",
       "description": "Reskin Aliendroid",
       "image": "https://wallpapercave.com/wp/wp3597031.jpg",
-      "videoid": "chatboot_flower3"
+      "videoid": "https://github.com/openmediaentertainment/video/blob/main/bts/JIMIN/1.mkv?raw=true"
     }
   ],
   "Wallpaper2": [
@@ -174,13 +174,7 @@
     }
   ],
   "Wallpaper": [
-    {
-        "id": 1,
-        "name_category": "BTS",
-        "wallpaper_name": "BTS01",
-        "wallpaper_type": "IMAGE",
-        "wallpaper_url": "https://i.pinimg.com/75x75_RS/2e/fd/b7/2efdb7a0aaa1b1db8352df01e344da98.jpg"
-    },
+  
     {
         "id": 2,
         "name_category": "BTS",
