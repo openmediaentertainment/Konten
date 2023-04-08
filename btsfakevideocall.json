@@ -1,20 +1,20 @@
 {
   "Ads": [
     {
-     "select_main_ads": "ADMOB",
+     "select_main_ads": "APPLOVIN-M",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
-      "main_ads_rewards":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
-      "backup_ads_rewards":"",
+      "main_ads_banner": "0b4b9b2e884e000b",
+      "main_ads_intertitial":"d0feb68184fdf11a",
+      "main_ads_natives":"8c6012e719f5cdbd",
+      "main_ads_rewards":"7cf3e89be788aee7",
+      "backup_ads_natives":"a15d7925f336f7ff",
+      "backup_ads_banner":"189e63cebd383dd9",
+      "backup_ads_intertitial":"39612949a90791c8",
+      "backup_ads_rewards":"34997b46a331709b",
       "open_ads_admob":"",
       "open_ads_alien":"",
       "open_ads_max":"1",
-      "interval_intertitial": 5,
+      "interval_intertitial": 2,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -31,10 +31,81 @@
   [
     {
       "id":1,
-      "title":"Nature",
-      "image":"file:///android_asset/more/more1.png",
-      "link":"https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      "title":"BTS Army Kpop Fans Super App",
+      "image":"https://play-lh.googleusercontent.com/X0uJxfeRh4sfI4WqOd4DHSqFNtfcdJxy91ZeRAfNKubKbRFPLZn-82BEYpPsFXtdV-0=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.openmediaentertainment.btsfakevideocall"
+    },{
+      "id":1,
+      "title":"Blackpink - BLINKs Super App",
+      "image":"https://play-lh.googleusercontent.com/jg_xUZ345VSYD2KooTb6nc3lTH-JirdUZb92WEj3Gzv_NsFY8gRSvuRKBcZ-TfpUEhs=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.openmediaentertainment.blackpinkfakecall"
+    },{
+      "id":1,
+      "title":"GOT7 Ahgase KPOP Super App",
+      "image":"https://play-lh.googleusercontent.com/5eRhGgIEiMaixSdO5oVUd-XwcZuhbUYCQTVlWnkz9cMUKQMdBMoaAy1sbQuCTbgRNE4=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.openmediaentertainment.got7"
+    },{
+      "id":1,
+      "title":"Twice Fake Video Call",
+      "image":"https://play-lh.googleusercontent.com/cAy73V9VC-UYElTM-euFja4mdSIFiF06KiNwpfCdPiripvlj4VA-SPLMVAUvoIt0Aw=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.openmediaentertainment.twicefakevideocall"
+    },{
+      "id":1,
+      "title":"EXO - EXO-L KPOP Super App",
+      "image":"https://play-lh.googleusercontent.com/e6kYfJfqBvslH_5EayhhM0GzTzv-y5lQB5Jm6m4zUQPWaJiYiD8WZnVT69VqJo7_6bO7=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.openmediaentertainment.exofakevideocall"
+    },{
+      "id":1,
+      "title":"Stray Kids - KPOP Super Ap",
+      "image":"https://play-lh.googleusercontent.com/QDQZ0hAgh3OeOyx6cV76Lzn0is0MuUK3vA_zfOLOKvVrEaK9Bvd4v52WCGQBdn2tnJ4=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.openmediaentertainment.straykids"
+    },{
+      "id":1,
+      "title":"Seventeen CARAT KPOP Super App",
+      "image":"https://play-lh.googleusercontent.com/qcQdRTlHDWoVYjpFR-l8SeVLYJ74JGLZdA5W8hQTmF_mIRXkt2GbgJy34ztaXSJEKho=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.openmediaentertainment.seventeencallfake"
+    },{
+      "id":1,
+      "title":"Red Velvet ReVeluv Super App",
+      "image":"https://play-lh.googleusercontent.com/gXLaEX5EZHrpz5M02XLzgSLPXw8ryoJkAqTp-Y46etXBNR9qh1eVPy3VREwV_CLWsQ=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.openmediaentertainment.redvelvet"
     }
+,{
+      "id":1,
+      "title":"NCT Prank Video Call",
+      "image":"https://play-lh.googleusercontent.com/ab8gJsKHdWCsfacETCJdSF_98vcT68O2f25uUQT4NckiLvXcEulqmLseIFkP0VKMgQ=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.openmediaentertainment.nctprankcoloringbook"
+    }
+,{
+      "id":1,
+      "title":"Kpop Fans Super App",
+      "image":"https://play-lh.googleusercontent.com/JFWiT3jViAsEtS0nsoGDl79pBfl01_C6gYb8G6W7UvLQ42epdisuwt6Vo1FNrriNrQ=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.openmediaentertainment.kpopidolfakecall"
+    }
+,{
+      "id":1,
+      "title":"OPPA K-pop Fans Super Appt",
+      "image":"https://play-lh.googleusercontent.com/QXn8IB1dmut6GJYw3wi2wi4X2-8O10nayRWuYnI2_YDCSQj81dvhKMezLwvOLlzav99N=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.openmediaentertainment.oppa"
+    }
+,{
+      "id":1,
+      "title":"Cristiano Ronaldo CR7Fans Apps",
+      "image":"https://play-lh.googleusercontent.com/CuzZbUFZ4QMyGwXj-uMoYyYYfFbcYolmahWoDYMSSd3zQmP-Hx0Y5k23J-x_K1jUYqE=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.openmediaentertainment.cristianoronaldocr7"
+    }
+,{
+      "id":1,
+      "title":"The Rock Super App Dwayne John",
+      "image":"https://play-lh.googleusercontent.com/q2zY7s-vf20w4XVO6b2Atb6jd6koSKuv8BjB4Fvf6tr0ARky_cP6RL8Q0-33gJrJPw=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.openmediaentertainment.dwaynetherockjohnson"
+    },{
+      "id":1,
+      "title":"Elon Musk Super App",
+      "image":"https://play-lh.googleusercontent.com/5bbqpqdqwzcGzd6XrFhwXzRG7CpZrqF8NCyvOAYEn--vEDvFF_CkwSLXV_yz6yEv1k8=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.openmediaentertainment.elonmusk"
+    }
+
 
   ],
   "Contact": [
@@ -2047,5 +2118,17 @@
       "video_url3": "https://github.com/openmediaentertainment/video/blob/main/bts/V/3.mkv?raw=true",
       "voice_url": "https://github.com/openmediaentertainment/video/blob/main/bts/V/1.MP3?raw=true"
     }
+  ],
+   "Theme": [
+    {
+      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_1.jpg"
+    }, 
+     {
+      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_2.jpg"
+    },
+     {
+      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_3.jpg"
+    }
   ]
+
 }
