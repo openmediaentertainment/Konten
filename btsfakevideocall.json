@@ -2017,7 +2017,7 @@
         "wallpaper_url": "https://i.pinimg.com/236x/1d/e5/6c/1de56c97e7e3768ce198bdb589d77b7a.jpg"
     }
   ],
-  "Puzzle":
+  "Data":
   [
     {
       "title":"JIN",
@@ -2115,13 +2115,22 @@
   ],
    "Theme": [
     {
-      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_1.jpg"
+      "url_theme": "https://i.pinimg.com/originals/4d/07/1c/4d071c53f8620b501b1993e6791fc97c.jpg"
     }, 
      {
-      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_2.jpg"
+      "url_theme": "https://i.pinimg.com/originals/82/6e/99/826e996d8598ddfd857162b7ad4f0b05.jpg"
     },
      {
-      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_3.jpg"
+      "url_theme": "https://i.pinimg.com/originals/53/a3/47/53a347229ff1431f6e7c5b40ac619e2e.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/736x/c0/a6/73/c0a67396280d2fe9614881d5b493ed9a.jpg"
+    },
+     {
+      "url_theme": "https://t-2.tstatic.net/jogja/foto/bank/images2/potret-bangtan-boys-atau-bangtan-sonyeondan-bts.jpg"
+    },
+     {
+      "url_theme": "https://timesofindia.indiatimes.com/thumb/msid-83171521,width-1200,height-900,resizemode-4/.jpg"
     }
   ]
 }
