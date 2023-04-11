@@ -62,42 +62,42 @@
     {
       "id": 4,
       "title": "KAI",
-      "description": "Reskin Aliendroid",
+      "description": "Samples last chat",
       "image": "https://i.pinimg.com/564x/59/99/87/5999874639c33d701a9324e68a8ec4d0.jpg",
       "videoid": "chatboot_flower3"
     },
     {
       "id": 5,
       "title": "LAY ZHANG",
-      "description": "Reskin Aliendroid",
+      "description": "Samples last chat",
       "image": "https://i.pinimg.com/564x/66/ae/3b/66ae3b85f5912b22741ce3f911f15bab.jpg",
       "videoid": "chatboot_flower3"
     },
     {
       "id": 6,
       "title": "SEHUN",
-      "description": "Reskin Aliendroid",
+      "description": "Samples last chat",
       "image": "https://i.pinimg.com/564x/18/db/12/18db124f26500c6b95ef114251f29eda.jpg",
       "videoid": "chatboot_flower3"
     },
     {
       "id": 7,
       "title": "SUHO",
-      "description": "Reskin Aliendroid",
+      "description": "Samples last chat",
       "image": "https://i.pinimg.com/564x/32/9a/cd/329acda68f154b5595de3e64f9a5d9ec.jpg",
       "videoid": "chatboot_flower3"
     },
     {
       "id": 8,
       "title": "XIUMIN",
-      "description": "Reskin Aliendroid",
+      "description": "Samples last chat",
       "image": "https://i.pinimg.com/564x/62/f4/a1/62f4a1513d565686212be62bb0769c7a.jpg",
       "videoid": "chatboot_flower3"
     },
     {
       "id": 9,
       "title": "Z TAO",
-      "description": "Reskin Aliendroid",
+      "description": "Samples last chat",
       "image": "https://i.pinimg.com/originals/2b/f0/4b/2bf04bc8b111fab5bdba5dfd4a31bb98.jpg",
       "videoid": "chatboot_flower3"
     }
@@ -2499,6 +2499,53 @@
       "video_url2": "https://github.com/openmediaentertainment/video/blob/main/exo/Z%20TAO/2.mkv?raw=true",
       "video_url3": "https://github.com/openmediaentertainment/video/blob/main/exo/Z%20TAO/3.mkv?raw=true",
       "voice_url": "https://github.com/openmediaentertainment/video/blob/main/exo/Z%20TAO/1.MP3?raw=true"
+    }
+    ],
+   "Theme": [
+    {
+      "url_theme": "https://i.pinimg.com/736x/9d/34/4c/9d344ce3d607d556f880851137ec52ae.jpg"
+    }, 
+     {
+      "url_theme": "https://i.pinimg.com/564x/3d/5d/6d/3d5d6d0bb79728f0a38d53161ed41a3e.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/564x/9f/a8/c0/9fa8c03c2d3d843449fd9811224bc524.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/564x/32/93/ad/3293ade2a71def1d49f872eb73d0392d.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/564x/c0/f1/5e/c0f15ed52048c075f177b81b0329a111.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/736x/90/8a/2e/908a2e1b7ac7fe8eb43489dbaeba275a.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/564x/71/d6/15/71d6158910d331d5e8976f1fa3b734e9.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/564x/4e/39/8e/4e398e70491978174b0027b0ec66e489.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/564x/ef/4d/f8/ef4df8c0b5a3e8e329ffb9dac30c28f1.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/564x/92/6a/3c/926a3c22df132493a46462d082903c78.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/564x/65/83/4a/65834a8490d6fe6a68b3f9b616dad121.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/564x/e7/02/01/e7020153825770e8f20bcfad9624d97e.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/564x/39/d1/72/39d1724560fadba0aa2766d956b75e7d.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/564x/7e/6a/9d/7e6a9d3917f8c0a3604d221523e53ab7.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/564x/55/98/88/559888865f5f7aaa68c05d1664a8e21d.jpg"
     }
   ]
 }
