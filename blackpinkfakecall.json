@@ -43,13 +43,13 @@
       "title": "Jisoo",
       "description": "Samples last chat",
       "image": "https://wallpapercave.com/wp/wp3113160.jpg",
-      "videoid": "chatboot_footbal"
+      "videoid": "https://github.com/openmediaentertainment/video/blob/main/blackpink/jisoo/2.mp4?raw=true"
     },
     {
       "id": 2,
       "title": "Jennie",
       "description": "Samples last chat",
-      "image": "https://wallpaperaccess.com/full/1106286.jpg",
+      "image": "https://github.com/openmediaentertainment/video/blob/main/blackpink/jennie/3.mp4?raw=true",
       "videoid": "chatboot_flower"
     },
     {
@@ -57,14 +57,14 @@
       "title": "Roseé",
       "description": "Samples last chat",
       "image": "https://i.pinimg.com/originals/69/a1/09/69a109d85a991b98259a928cf3a8a90f.jpg",
-      "videoid": "chatboot_footbal"
+      "videoid": "https://github.com/openmediaentertainment/video/blob/main/blackpink/rose/3.mp4?raw=true"
     },
     {
       "id": 4,
       "title": "Lisa",
-      "description": "Reskin Aliendroid",
+      "description": "Samples last chat",
       "image": "https://i.pinimg.com/originals/17/1a/ab/171aab66f2877b2e404936190c34dc79.jpg",
-      "videoid": "chatboot_flower3"
+      "videoid": "https://github.com/openmediaentertainment/video/blob/main/blackpink/lisa/3.mp4?raw=true"
     }
   ],
   "Wallpaper2": [
@@ -2455,6 +2455,53 @@
       "video_url2": "https://github.com/openmediaentertainment/video/blob/main/blackpink/lisa/2.mp4?raw=true",
       "video_url3": "https://github.com/openmediaentertainment/video/blob/main/blackpink/lisa/3.mp4?raw=true",
       "voice_url": "https://github.com/openmediaentertainment/video/blob/main/blackpink/lisa/1.MP3"
+    }
+  ],
+   "Theme": [
+    {
+      "url_theme": "https://i.pinimg.com/564x/79/a4/25/79a4256f5cd14ceea38d24f5feee2e6e.jpg"
+    }, 
+     {
+      "url_theme": "https://i.pinimg.com/564x/12/b4/71/12b47167804584190ea11abc9349cf1a.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/564x/9f/a8/c0/9fa8c03c2d3d843449fd9811224bc524.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/564x/da/a8/fd/daa8fd3128bc91711ff26d2e01fbc5c0.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/564x/a6/24/31/a62431df7f3641d97a8677846aea2a0c.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/564x/63/d0/b2/63d0b20982a4dfe35c8cf0929103d6fc.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/564x/30/6f/82/306f82c6d68e7b82c27535b39ab47b65.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/564x/46/b9/08/46b908f04420719d1499477f6c28e4e0.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/564x/dd/9b/ca/dd9bca1d4696a54f1f096400f3593a81.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/564x/6f/54/ee/6f54ee25f76633ba4ce44c67e4211127.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/736x/b1/1d/a4/b11da472e876f290adc5f5b16c4f8fd5.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/564x/39/8a/a9/398aa928af11c1fccb598cbac451851b.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/564x/63/0b/f9/630bf9beb0284a0570970ff6e9633217.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/564x/f6/81/29/f6812967514f93bbb0af97bd41b8e494.jpg"
+    },
+     {
+      "url_theme": "https://i.pinimg.com/564x/19/80/6e/19806ec06317dd68b5535fb06d2d71ed.jpg"
     }
   ]
 }
