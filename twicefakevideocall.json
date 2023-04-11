@@ -2636,6 +2636,45 @@
         "wallpapername": "TWICE360",
         "wallpapertype": "IMAGE",
         "wallpaperurl": "https://i.pinimg.com/originals/63/4b/12/634b120e614fed9fedab1a39efbe2fd9.jpg"
+   }
+  ],
+  "Puzzle":
+  [
+    {
+      "title":"Chaeyoung",
+      "image":"https://i.pinimg.com/564x/6e/f7/78/6ef7787cb6e7f2a0eb910b8134fffefc.jpg"
+    },
+    {
+      "title": "Dahyun",
+      "image": "https://i.pinimg.com/564x/11/97/f9/1197f94cb8206ced0ef2d7c79c7c6376.jpg"
+    },
+    {
+      "title":"Jeongyeon",
+      "image":"https://i.pinimg.com/564x/20/3c/df/203cdffa6d9130a9787cabb76e2f31ab.jpg"
+    },
+    {
+      "title":"Jihyo",
+      "image":"https://i.pinimg.com/564x/50/06/57/500657d2aa562c06e0fc95e23ded83f5.jpg"
+    },
+    {
+      "title":"Mina",
+      "image":"https://i.pinimg.com/564x/ed/af/e5/edafe52ac11c3ff7daeab9606cc21778.jpg"
+    },
+    {
+      "title":"Momo",
+      "image":"https://i.pinimg.com/564x/e7/c8/74/e7c8748420f1a7e232f4e45c4d7dab3a.jpg"
+    },
+    {
+      "title":"Nayeon",
+      "image":"https://i.pinimg.com/564x/18/9f/13/189f135f97bdcf60a828275709251750.jpg"
+    },
+    {
+      "title":"Sana",
+      "image":"https://i.pinimg.com/564x/19/15/72/19157208adb8dbd4a155fe4e8fea2c4f.jpg"
+    },
+    {
+      "title":"Tzuyu",
+      "image":"https://i.pinimg.com/564x/78/12/e4/7812e49e2980fe0ebdd896b860cac319.jpg"
     }
 ],
   "ItemFake": [
